@@ -1,0 +1,2 @@
+kayitliOgrenciAdlari=[]
+print (type (kayitliOgrenciAdlari))
